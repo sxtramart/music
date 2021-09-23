@@ -1,6 +1,6 @@
 module.exports = {
     "prefix": "m",
-    "token_bot": "ODU5NzkxOTMxMTA5NDA4ODA4.YNx1og.264bZG-qU8Zn4JFqcjadvHgOHmw",
+    "token_bot": "ODU5NzkxOTMxMTA5NDA4ODA4.YNx1og.264bZG-qU8Zn4JFqcjadvHgOHmwK",
     "inviteURI": "https://discord.com/api/oauth2/authorize?client_id=859791931109408808&permissions=8&scope=bot",
     "supportServer": "supportServer", //if any
      "colors": {
